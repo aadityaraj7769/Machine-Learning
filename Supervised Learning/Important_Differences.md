@@ -64,4 +64,12 @@
 10) K-nearest neighbours (KNN)
 11) Why KNN is also known as lazy learning algorithm?
 12) Euclidean and Manhattan Distance
+13) C (or Regularization Parameter) and Gamma in SVM
+14) Precision and Recall
+15) R^2 and Adjusted R^2
 
+    R^2 = 1 - (y-y^)^2 / (y-ybar)^2
+
+    Adj. R^2 = 1 - ((1-R^2)*(n-1)) / (n-p-1)
+    
+    n -> sample size and p -> no. of predictors
