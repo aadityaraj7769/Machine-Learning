@@ -1,0 +1,37 @@
+-> Features given in dataset
+
+=)) Checking Balance     -> It's a qualitative data. It shows the Status of existing Checking account. (in DM).
+    DM -> The Deutsche Mark abbreviated "DM" or "D-Mark was the official currency of West Germany from 1948 until 1990.
+
+=)) months_loan_duration -> It's a numerical data. It shows the duration in months.
+
+=)) credit history       -> It's a qualitative data. It shows the credit history.
+
+=)) purpose              -> It's a qualitative data. It shows for what the purpose for a person to take loan.
+
+=)) amount               -> It's a numerical data. It shows the credit amount.
+
+=)) savings_balance      -> It's a qualitative data. It shows the savings account/bonds (DM).
+
+=)) employment_duration  -> It's a qualitative data. It shows the person is present employed since ...
+
+=)) percent_of_income    -> It's a numerical data. It shows the Installment rate in %age of disposable income.
+
+=)) years_at_residence   -> It's a numerical data. It shows the present residence since ...
+
+=)) age                  -> It's a numerical data. It shows the age of a person in years.
+
+=)) other_credit         -> It's a qualitative data. It shows, if a person has other Installment plans and where (bank or store or none).
+
+=)) housing              -> It's a qualitative data. It shows whether the person has their own house or rent.
+
+=)) existing_loans_count -> It's a numerical data. It shows the number of existing credit at this bank.
+
+=)) job                  -> It's a qualitative data. It shows about the skills/job of the person.
+
+=)) dependents           -> It's a numerical data. It shows the number of dependents.
+
+=)) phone                -> It's a qualitative data. It shows whether the person has phone or not.
+
+***=)) default ***       -> Target Variable.
+                         -> It's a qualitative data. It shows whether a person is defaulter or not.
